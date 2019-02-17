@@ -5,6 +5,9 @@
 yarn
 ```
 
+1. Download credential file from gcp (`gc.json`)
+2. Create `.env`
+
 # Development
 
 ```

@@ -18,3 +18,11 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+
+# credential files
+
+gc.json
+
+# generated out
+nearest.json
+tstatus.json

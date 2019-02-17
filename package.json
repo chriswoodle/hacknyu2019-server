@@ -13,7 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/chriswoodle/hacknyu2019-server.git"
   },
-  "author": "Chris Woodle",
+  "contributors": [
+    {
+      "name": "Chris Woodle"
+    },
+    {
+      "name": "Muntaser Syed"
+    },
+    {
+      "name": "Cara"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chriswoodle/hacknyu2019-server/issues"
