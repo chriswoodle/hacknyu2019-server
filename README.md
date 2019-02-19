@@ -1,5 +1,7 @@
 # hacknyu2019-server
 
+See project on [Devpost](https://devpost.com/software/rideable).
+
 # Setup
 ```
 yarn
